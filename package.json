@@ -1,0 +1,19 @@
+{
+  "name": "praktikum-29",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vicky",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jquery": "^1.9.1",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.28.0"
+  }
+}
